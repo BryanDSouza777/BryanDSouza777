@@ -25,4 +25,3 @@ Ola! Eu sou o Bryan Souza
 </div>
 <br>
 - 🔭 Eu atualmente estou desempregado<br>
-- 🌱 Estudando Django<br>
