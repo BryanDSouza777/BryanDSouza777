@@ -26,4 +26,4 @@ Ola! Eu sou o Bryan D. Souza
  
 </div>
 <br>
-- 🔭 Eu atualmente estou desempregado<br>
+- 🔭 Estou procurando meu primeiro emprego<br>
